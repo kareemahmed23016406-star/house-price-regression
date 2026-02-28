@@ -1,0 +1,11 @@
+LinkedIn Post (copy/paste):
+
+🚀 New ML Project on GitHub: House Price Prediction (Regression)
+
+I built a complete ML pipeline using Python & scikit-learn to predict house prices from tabular features.
+✅ Data preprocessing + missing value handling (SimpleImputer)
+✅ Linear Regression + Polynomial Regression (degree=2)
+✅ Baseline with KNN Regressor
+
+GitHub: (paste repo link)
+#MachineLearning #Python #ScikitLearn #Kaggle

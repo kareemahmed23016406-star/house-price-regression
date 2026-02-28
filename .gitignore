@@ -1,0 +1,21 @@
+# data files (download from Kaggle)
+data/*.csv
+data/*.zip
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# outputs
+artifacts/
+outputs/
+*.joblib
+*.pkl
+*.h5
+*.keras
+
+# notebooks checkpoints
+.ipynb_checkpoints/
